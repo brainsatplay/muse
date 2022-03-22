@@ -2,7 +2,7 @@ import * as muse from './device.utils'
 
 export const device =  {
     // Generic 
-    label: 'Muse', 
+    label: 'muse', 
     device: muse.device,
     onconnect: muse.onconnect,
     protocols: ['bluetooth'],
